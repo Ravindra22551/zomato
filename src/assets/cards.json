@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "title":"ZOMATO",
+        "src":"https://norecipes.com/wp-content/uploads/2017/05/chicken-biryani-11.jpg",
+        "alt":"",
+        "description":"HYDERBADI DUM BIRYANI",
+        "subdescription":"FAMOUS IN ANYWHERE",
+        "headings":"A DELIVERY PARTNER",
+        "price":285,
+        "button":"explore",
+        "rating":4.2
+    },
+    {
+        "id":1,
+        "title":"ZOMATO",
+        "src":"https://norecipes.com/wp-content/uploads/2017/05/chicken-biryani-11.jpg",
+        "alt":"",
+        "description":"HYDERBADI DUM BIRYANI",
+        "subdescription":"FAMOUS IN ANYWHERE",
+        "headings":"A DELIVERY PARTNER",
+        "price":285,
+        "button":"explore",
+        "rating":4.2
+    }
+]
